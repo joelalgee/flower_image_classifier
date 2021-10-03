@@ -1,4 +1,4 @@
-# Image Classification with Pytorch
+# Image Classification with Pytorch - February 2021
 
 Classifying images through a command line application, using neural networks in Pytorch
 
